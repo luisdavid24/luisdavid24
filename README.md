@@ -1,4 +1,4 @@
-# Luis David Lopez Mendoza: Enthusiastic Software Developer
+# Luis David Lopez Mendoza: Enthusiastic Software Developer 🖐🏼 
 
 ## Overview
 Welcome to my GitHub profile! I'm a passionate student of computer science with a keen interest in software development. This README provides an overview of who I am, my skills, and the projects I'm working on.😊
