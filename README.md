@@ -1,7 +1,7 @@
-# Student Profile: Enthusiastic Software Developer
+# Luis David Lopez Mendoza: Enthusiastic Software Developer
 
 ## Overview
-Welcome to my GitHub profile! I'm a passionate student of computer science with a keen interest in software development. This README provides an overview of who I am, my skills, and the projects I'm working on.
+Welcome to my GitHub profile! I'm a passionate student of computer science with a keen interest in software development. This README provides an overview of who I am, my skills, and the projects I'm working on.😊
 
 ## About Me
 I am a [Your Current Academic Level, e.g., undergraduate/graduate] student majoring in computer science. My journey into the world of programming started with my fascination for technology and its potential to transform ideas into reality. I am deeply passionate about software development and enjoy exploring new technologies and frameworks to enhance my skills.
