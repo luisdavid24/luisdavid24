@@ -4,17 +4,8 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Welcome+to+my+github+😇"></a>
 </p>
 
-## Overview
-Welcome to my GitHub profile! I'm a passionate student of computer science with a keen interest in software development. This README provides an overview of who I am, my skills, and the projects I'm working on.😊
 
-## About Me
-My journey into the world of programming started with my fascination for technology and its potential to transform ideas into reality. I am deeply passionate about software development and enjoy exploring new technologies and frameworks to enhance my skills.
-
-=
 <br>
-
-
-
 	
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
 
@@ -106,6 +97,4 @@ My journey into the world of programming started with my fascination for technol
 <br>
 <br>
 
-## Contact
-Feel free to reach out to me via email at david12.29@hotmail.com.
-<br>
+
