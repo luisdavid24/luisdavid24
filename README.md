@@ -16,7 +16,7 @@
 - A passionate self-taught developer.
 - Sportsman in my free time.
 - Currently learning on your own
-- I am currently open for new job opportunities, this is [my resume](https://read.cv/0xabdulkhalid)
+- I am currently open for new job opportunities, this is [my resume](https://www.canva.com/design/DAGCBw2DC2Q/64g_kcTji3z-3GfI0f6mzA/edit?utm_content=DAGCBw2DC2Q&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 
 <br>
