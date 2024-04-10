@@ -15,7 +15,7 @@
 
 - A passionate self-taught developer.
 - Sportsman in my free time.
-- Currently learning on your own
+- Currently learning on my own
 - I am currently open for new job opportunities, this is [my resume](https://drive.google.com/file/d/1SugBG5UWjGXBsBmzZRfIXBBgCdKk9pwc/view?usp=drive_link)
 
 
