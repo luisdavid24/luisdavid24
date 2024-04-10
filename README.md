@@ -13,11 +13,11 @@
 
 <br>
 
-- A passionate Self-taught Front-end developer
-- Playing CTF's at spare time
-- Currently learning Web Development by Self
-- Personal website [link](https://www.0xabdulkhalid.ml)
-- I’m currently open for an Intern or a new job opportunity, this is [my resume](https://read.cv/0xabdulkhalid)
+- A passionate self-taught developer.
+- Sportsman in my free time.
+- Currently learning on your own
+- I am currently open for new job opportunities, this is [my resume](https://read.cv/0xabdulkhalid)
+
 
 <br>
 
